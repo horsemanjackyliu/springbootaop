@@ -23,5 +23,4 @@ public class EmployeeController {
     return "The employe " + empId +" has been deleted";
   }
 
-
 }
